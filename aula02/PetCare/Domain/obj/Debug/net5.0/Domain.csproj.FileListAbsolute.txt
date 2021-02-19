@@ -1,0 +1,5 @@
+C:\Users\Everton\Documents\GitHub\disciplinas_on_line_2020_2\tds\projetos\PetCare\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+C:\Users\Everton\Documents\GitHub\disciplinas_on_line_2020_2\tds\projetos\PetCare\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Everton\Documents\GitHub\disciplinas_on_line_2020_2\tds\projetos\PetCare\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Everton\Documents\GitHub\disciplinas_on_line_2020_2\tds\projetos\PetCare\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\Everton\Documents\GitHub\disciplinas_on_line_2020_2\tds\projetos\PetCare\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
